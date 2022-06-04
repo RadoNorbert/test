@@ -2,10 +2,7 @@ name: MTMT Publikációs listaellenőrzés
 description: Publikációs listák karbantartására szolgáló űrlap
 labels: "MTMT listaellenőrzés"
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
+  
   - type: input
     id: contact
     attributes:
