@@ -1,7 +1,7 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: MTMT Publikációs listaellenőrzés
+description: Publikációs listák karbantartására szolgáló űrlap
+title: ""
+labels: "MTMT listaellenőrzés"
 assignees:
   - RadoNorbert
 body:
