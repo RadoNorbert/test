@@ -8,7 +8,7 @@ body:
     attributes:
       label: Név
       description: Igénylő neve
-      placeholder: Pl.: Kis Viktória
+      placeholder: Pl. Kis Viktória
     validations:
       required: true
   - type: textarea
