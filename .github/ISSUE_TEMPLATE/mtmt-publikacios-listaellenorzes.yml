@@ -1,8 +1,6 @@
 name: MTMT Publikációs listaellenőrzés
 description: Publikációs listák karbantartására szolgáló űrlap
 labels: "MTMT listaellenőrzés"
-assignees:
-  - RadoNorbert
 body:
   - type: markdown
     attributes:
