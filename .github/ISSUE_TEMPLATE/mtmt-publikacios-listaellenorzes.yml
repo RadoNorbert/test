@@ -2,6 +2,7 @@ name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
+body:
 - type: markdown
   attributes:
     value: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
