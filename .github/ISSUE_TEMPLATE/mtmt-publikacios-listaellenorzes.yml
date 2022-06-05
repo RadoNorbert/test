@@ -6,9 +6,20 @@ body:
     id: name
     attributes:
       label: Név
-      placeholder: Pl. Kis Viktória
     validations:
       required: true
+  - type: input
+    id: email
+    attributes:
+      label: E-mail cím
+    validations:
+      required: true
+  - type: input
+    id: MTMT
+    attributes:
+      label: MTMT azonosító
+    validations:
+      required: true    
   - type: textarea
     id: what-happened
     attributes:
