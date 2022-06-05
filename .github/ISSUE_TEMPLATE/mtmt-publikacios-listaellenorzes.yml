@@ -42,4 +42,4 @@ body:
     attributes:
       label: Megjegyzés
     validations:
-      required: true
+      required: false
