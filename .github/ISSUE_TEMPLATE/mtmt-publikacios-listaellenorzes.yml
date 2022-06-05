@@ -41,6 +41,5 @@ body:
     id: megjegyzes
     attributes:
       label: "Megjegyzés:"
-      default:"-"
     validations:
       required: false
