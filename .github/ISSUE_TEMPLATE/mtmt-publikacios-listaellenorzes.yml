@@ -5,19 +5,19 @@ body:
   - type: input
     id: name
     attributes:
-      label: Név
+      label: "Név:"
     validations:
       required: true
   - type: input
     id: email
     attributes:
-      label: E-mail cím
+      label: "E-mail cím:"
     validations:
       required: true
   - type: input
     id: MTMT
     attributes:
-      label: MTMT azonosító
+      label: "MTMT azonosító:"
     validations:
       required: true 
   - type: dropdown
@@ -33,13 +33,13 @@ body:
   - type: input
     id: palyazat
     attributes:
-      label: Pályázat beadásának határideje
+      label: "Pályázat beadásának határideje:"
       description: "pl.: 2022-05-28"
     validations:
       required: true 
   - type: textarea
     id: megjegyzes
     attributes:
-      label: Megjegyzés
+      label: "Megjegyzés:"
     validations:
       required: false
