@@ -10,7 +10,7 @@ body:
       placeholder: Pl. Kis Viktória
     validations:
       required: true
-  - type: datetime
+  - type: datepicker
   - type: textarea
     id: what-happened
     attributes:
