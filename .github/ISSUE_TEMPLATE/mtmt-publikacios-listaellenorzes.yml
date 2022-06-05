@@ -23,7 +23,7 @@ body:
   - type: dropdown
     id: keres
     attributes:
-      label: Kérés típusa
+      label: "Kérés típusa:"
       options:
         - Lista ellenőrzés egyetemi pályázathoz
         - Lista ellenőrzés MTA doktora pályázathoz
